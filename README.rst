@@ -21,7 +21,8 @@ for managing GitHub issues related to OpenHatch's oh-mainline repo..
 Features
 --------
 
-* `IPython notebook for interactive experimentation <nbviewer.ipython.org/github/willingc/openhatch-issues/blob/master/openhatch-issues/issues.ipynb>`_
+* `Notebook`_ 
+.. _Notebook: http://nbviewer.ipython.org/github/willingc/openhatch-issues/blob/master/openhatch-issues/issues.ipynb
 
 
 
